@@ -11,7 +11,7 @@ on:
     branches:
       - main
 
-  # Automatic trigger on pull request events targeting the main branch
+  # Automatic trigger on pull request events targeting the main branch 
   pull_request:
     branches:
       - main
